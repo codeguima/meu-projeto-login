@@ -1,0 +1,11 @@
+npm install concurrently --save-dev
+npm install json-server --save-dev
+npm install react-router-dom
+npm install styled-components  
+npm install --save-dev @types/styled-components
+npm install react-hook-form
+npm install axios
+npm install @hookform/resolvers yup --force
+npm install --save-dev @types/yup --force
+npm install typescript@4.9.5
+
